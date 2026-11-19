@@ -27,7 +27,7 @@ Ce projet m'a permis d'expérimenter la création d'interfaces web, la mise en p
 
 Ce projet m'a permis de renforcer mes connaissances en développement front-end, de mieux comprendre le fonctionnement des interactions côté client et de pratiquer l'intégration des différentes technologies dans un même projet.
 
-## 👨‍💻 Auteur
+## Auteur
 
 **Ayanleh Osman Houssein**
 
